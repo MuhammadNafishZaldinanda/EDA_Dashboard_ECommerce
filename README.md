@@ -11,3 +11,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Data 
+```
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+```
